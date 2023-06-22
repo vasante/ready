@@ -11,4 +11,9 @@
     </con:part>
   </con:definitionCache>
   <con:endpoints/>
+  <con:environmentSpec>
+    <con:entry environmentId="5d54c941-94c0-49a1-b3cd-a676d355009d">
+      <con:authProfile>Inherit From Parent</con:authProfile>
+    </con:entry>
+  </con:environmentSpec>
 </con:interface>
