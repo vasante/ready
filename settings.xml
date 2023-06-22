@@ -13,6 +13,9 @@
     <con:property>
       <con:name>ghhj</con:name>
     </con:property>
+    <con:property>
+      <con:name>ghghg</con:name>
+    </con:property>
   </con:properties>
   <con:wssContainer/>
   <con:databaseConnectionContainer/>
@@ -61,6 +64,10 @@
       <con:name>ghhj</con:name>
       <con:value>jj</con:value>
     </con:property>
+    <con:property>
+      <con:name>ghghg</con:name>
+      <con:value>gjjij</con:value>
+    </con:property>
     <con:databaseConnectionContainer/>
     <con:jmsConnectionContainer/>
   </con:environment>
@@ -75,6 +82,10 @@
     </con:property>
     <con:property>
       <con:name>ghhj</con:name>
+      <con:value/>
+    </con:property>
+    <con:property>
+      <con:name>ghghg</con:name>
       <con:value/>
     </con:property>
     <con:databaseConnectionContainer/>
