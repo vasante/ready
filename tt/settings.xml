@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:interface xmlns:con="http://eviware.com/soapui/config" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="con:RestService" id="04bb86ef-5486-4cd5-a3eb-c767137972c6" name="tt" type="rest_ex" wadlVersion="https://swagger.io/openapiv3/specification">
-  <con:settings id="5c47c826-ff6b-49ac-abb7-e1bdc400e1db">
+  <con:settings id="8625c559-90e6-42fd-b947-77817d4fc9d5">
     <con:setting id="04bb86ef-5486-4cd5-a3eb-c767137972c6fileName">tt</con:setting>
   </con:settings>
-  <con:definitionCache type="TEXT" rootPart="tt.json">
+  <con:definitionCache rootPart="tt.json" type="TEXT">
     <con:part>
       <con:url>tt.json</con:url>
       <con:content>{"openapi":"3.0.1","info":{"title":"tt","description":"","version":"1.0.0"},"servers":[],"paths":{}}</con:content>
